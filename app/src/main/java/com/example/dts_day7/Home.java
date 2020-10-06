@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ListView;
 
 public class Home extends AppCompatActivity {
     Button btnInput, btnKal, btnList;
@@ -23,7 +22,7 @@ public class Home extends AppCompatActivity {
         btnInput.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(Home.this, MainActivity.class);
+                Intent intent = new Intent(Home.this, inputActivity.class);
                 startActivity(intent);
             }
         });

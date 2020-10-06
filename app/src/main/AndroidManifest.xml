@@ -20,7 +20,7 @@
         <activity android:name=".listviewActivity">
 
         </activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name=".inputActivity" />
     </application>
 
 </manifest>
