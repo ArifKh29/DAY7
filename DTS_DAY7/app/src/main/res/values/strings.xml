@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DTS_DAY7</string>
+    <string name="label_input_nama">Masukan Nama Anda</string>
+    <string name="hint_input_nama">Silahkan Masukan Nama Anda Disini</string>
+    <string name="label_input_alamat">Masukan Alamat Anda</string>
+    <string name="hint_input_alamat">Silahkan Masukan Alamat Anda Disini</string>
+    <string name="txtButton">Simpan</string>
+    <string name="txtRstButton">Reset</string>
+</resources>
